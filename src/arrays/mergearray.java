@@ -1,4 +1,4 @@
-package Merge_Array;
+package arrays;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;

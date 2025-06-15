@@ -1,4 +1,4 @@
-package Dutch_National_Flag;
+package arrays;
 
 public class Dutch_National_Flag {
     public static void dutchNationalFlag(int[] arr){
